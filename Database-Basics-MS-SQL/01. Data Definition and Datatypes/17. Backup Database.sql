@@ -1,0 +1,1 @@
+--Backup the database SoftUni from the previous tasks into a file named 'softuni-backup.bak'. Delete your database from SQL Server Management Studio. Then restore the database from the created backup.

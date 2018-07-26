@@ -1,0 +1,5 @@
+DROP TABLE Minions
+GO
+
+DROP TABLE Towns
+GO
