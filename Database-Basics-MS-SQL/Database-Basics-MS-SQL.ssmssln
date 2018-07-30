@@ -7,14 +7,17 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "01. Data Definition and Dat
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02. Basic CRUD", "02. Basic CRUD\02. Basic CRUD.ssmssqlproj", "{5F35C52C-138B-49E5-A117-29718779B1FE}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03. Built-in Functions", "03. Built-in Functions\03. Built-in Functions.ssmssqlproj", "{6273526B-E945-4832-B6C2-5EE981DD41FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{66B93966-E736-4D26-BAED-8F4B5EF9FB67}.Default|Default.ActiveCfg = Default
 		{F33CCCB1-E70A-4386-80B6-CFECA4736739}.Default|Default.ActiveCfg = Default
 		{5F35C52C-138B-49E5-A117-29718779B1FE}.Default|Default.ActiveCfg = Default
+		{6273526B-E945-4832-B6C2-5EE981DD41FA}.Default|Default.ActiveCfg = Default
+		{06B5FA47-927B-41FE-A1EB-AA476D802A5E}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
