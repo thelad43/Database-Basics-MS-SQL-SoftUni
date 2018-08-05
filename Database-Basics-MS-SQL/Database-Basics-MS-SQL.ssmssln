@@ -11,6 +11,8 @@ Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03. Built-in Functions", "0
 EndProject
 Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04. Data Aggregation", "04. Data Aggregation\04. Data Aggregation.ssmssqlproj", "{A9814B8F-3700-451E-94B0-9F389D3ABEE3}"
 EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05. Table Relations", "05. Table Relations\05. Table Relations.ssmssqlproj", "{272A360F-FF5E-4547-AAF7-291FFAAE980A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Default|Default = Default|Default
@@ -19,8 +21,9 @@ Global
 		{F33CCCB1-E70A-4386-80B6-CFECA4736739}.Default|Default.ActiveCfg = Default
 		{5F35C52C-138B-49E5-A117-29718779B1FE}.Default|Default.ActiveCfg = Default
 		{6273526B-E945-4832-B6C2-5EE981DD41FA}.Default|Default.ActiveCfg = Default
-		{06B5FA47-927B-41FE-A1EB-AA476D802A5E}.Default|Default.ActiveCfg = Default
 		{A9814B8F-3700-451E-94B0-9F389D3ABEE3}.Default|Default.ActiveCfg = Default
+		{EAE49E52-D39A-4745-9D23-80BFF37EE5F1}.Default|Default.ActiveCfg = Default
+		{272A360F-FF5E-4547-AAF7-291FFAAE980A}.Default|Default.ActiveCfg = Default
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
